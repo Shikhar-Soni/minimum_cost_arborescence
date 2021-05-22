@@ -354,10 +354,7 @@ int main(){
 	    }
 	}
  }
-/*I have checked my code on CodeChef IDE, my laptop, tutorialspoint IDE, I have also assumed
-that C++ 14 or up will be used for evaluation. I have given n+1 and so on as super node label, 
-mentioned in last FAQ in lab-05 document on GC, below is an input I checked against with the
-corresponding output.
+/*
 input :
 2
 4 5 1
